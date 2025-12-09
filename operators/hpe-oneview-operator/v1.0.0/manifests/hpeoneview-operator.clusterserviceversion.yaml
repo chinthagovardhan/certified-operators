@@ -60,7 +60,6 @@ metadata:
     categories: "Integration & Delivery"
     description: "The HPE OneView Operator enables to manage BIOS, RAID and Firmware of HPE Servers using HPE OneView"
     containerImage: registry.connect.redhat.com/hpeoneview/hpe-oneview-operator@sha256:c5c317c0c257b7f1749795f1139e3594ca489fc839ef90b13d27a937531928e6
-    createdAt: "2025-09-25T16:28:16Z"
     support: HPE
     features.operators.openshift.io/cnf: "false"
     features.operators.openshift.io/cni: "false"
